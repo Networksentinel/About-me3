@@ -1,0 +1,47 @@
+html, body {
+    margin: 0;
+    background-color: black;
+}
+.back {
+    background-color:aliceblue;
+    max-width: 1000px;
+    margin: 0px 15%;
+    padding: 100px 280px;
+}
+.center {
+    text-align: center;
+}
+.selfie {
+    width: 35%;
+    height: auto;
+    border-radius: 50%;
+}
+h1 {
+    background-color: black;
+    color: aliceblue;
+    display: inline-block;
+    font-size: 22px;
+    padding: 5px 20px;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+.h2 {
+    margin: 10px 0 30px 0;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 100;
+}
+.left {
+    padding: 70px 0 0 100px;
+}
+h2 {
+    font-size: 20px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    margin-bottom: 3    0px;
+}
+h3 {
+    font-size: 15px;
+    font-weight: 100;
+    margin-bottom: 0px;
+}
